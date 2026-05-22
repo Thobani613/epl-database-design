@@ -12,7 +12,7 @@ A paragraph describing what the system models and why
 - [Business Requirements](docs/business_requirements.md)
 
 ## Entity List
-**1. Player**
+1. Player
 Stores personal details about each player — name, date of birth, nationality, and position
 2. Stadium
 Stores details about each ground — name, city, and capacity
